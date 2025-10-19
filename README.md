@@ -1,11 +1,11 @@
-#🚴‍♂️ ApexRide Bike Shop – Power BI Sales Analytics Dashboard
+# 🚴‍♂️ ApexRide Bike Shop – Power BI Sales Analytics Dashboard
 
 I’m excited to introduce my latest data analytics project — the ApexRide Bike Shop Sales Dashboard, built using Microsoft Power BI.
 
 This project showcases how raw transactional data can be transformed into a comprehensive, interactive, and visually engaging business intelligence solution. It highlights sales trends, customer behavior, product performance, and regional insights — all from one central, dynamic dashboard.
 
 
-##🎯 Purpose
+## 🎯 Purpose
 
 ApexRide is a retail bike shop which sales many products which are bikes, accessories, rider clothing, bike components.
 The goal of this project was to design a dashboard that helps management quickly answer questions like:
@@ -21,7 +21,7 @@ How many Orders made by customer with various occupations?
 This project turns data into decisions — empowering users to explore insights instantly.
 
 
-##⚙️ Project Workflow
+## ⚙️ Project Workflow
 
 1️⃣ Data Preparation – Cleaned and structured multiple datasets (Sales, Products, Customers, Regions) using Power Query.
 2️⃣ Data Modeling – Built a star schema with Fact and Dimension tables for efficient analytics.
@@ -29,7 +29,7 @@ This project turns data into decisions — empowering users to explore insights 
 4️⃣ Visualization Design – Designed a clean, and business-friendly dashboard layout with consistent colors and KPIs according to ApexBike Ride Shop Company.
 
 
-##📊 Dashboard Highlights
+## 📊 Dashboard Highlights
 
 🔹 Executive Sales Overview
 
@@ -74,7 +74,7 @@ Orders by Income, Occupation
 Top 1 Customer with no of orders and revenue generated.
 
 
-##🧩 Tools & Technologies
+## 🧩 Tools & Technologies
 
 Microsoft Power BI – Dashboard development & visualization
 
@@ -87,7 +87,7 @@ DAX – Custom measures for KPIs and calculations, Used Dax Numeric , Field para
 Excel – Raw data validation and testing
 
 
-##🎛️ Interactive Slicers
+## 🎛️ Interactive Slicers
 
 Slicers panel enhance interactivity: Yearly, Continent wise.
 
@@ -98,7 +98,7 @@ Product Metric selection to get Returns by Total orders, Total Revenue, Total Pr
 These enable stakeholders to slice and dice the data for deeper insight and decision-making.
 
 
-##💡 Key Takeaways
+## 💡 Key Takeaways
 
 📈 Total Revenue: $24.9M
 💰 Total Profit: $10.5M
@@ -107,6 +107,25 @@ These enable stakeholders to slice and dice the data for deeper insight and deci
 🔁 Return Rate: 2.2%
 
 This project deepened my understanding of Power BI data modeling, DAX optimization, and interactive design for executive-level dashboards.
+
+## 🚀 Final Summary:
+
+• Sales & Profit Insights:
+
+The dashboard reveals that ApexRide generated $24.9M in total revenue and $10.5M in profit, with a steady month-on-month growth. The Tires & Tubes category emerged as the top-performing product, contributing significantly to both sales and profitability.
+
+• Regional Insights:
+
+From a geographical perspective, the United States dominates overall performance, leading both in revenue and total orders. European regions follow, showing potential for expansion through targeted promotions and product diversification.
+
+• Customer Behavior Analysis:
+
+Customer-level insights show 17K+ unique buyers, with the average revenue per customer at $1,432. Higher-order frequency was observed among working professionals and middle-income groups, indicating a loyal returning customer base.
+
+• Returns & Performance Metrics:
+
+The overall return rate stands at 2.2%, well within acceptable limits, with most returns coming from accessories. Drillthrough analysis helps identify products and regions with slightly higher return trends, guiding better inventory and customer support strategies.
+
 
 🗂️ Resources
 
