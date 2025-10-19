@@ -8,6 +8,7 @@ This project showcases how raw transactional data can be transformed into a comp
 ## 🎯 Purpose
 
 ApexRide is a retail bike shop which sales many products which are bikes, accessories, rider clothing, bike components.
+
 The goal of this project was to design a dashboard that helps management quickly answer questions like:
 
 How much revenue generated, profits, orders?
@@ -24,8 +25,11 @@ This project turns data into decisions — empowering users to explore insights 
 ## ⚙️ Project Workflow
 
 1️⃣ Data Preparation – Cleaned and structured multiple datasets (Sales, Products, Customers, Regions) using Power Query.
+
 2️⃣ Data Modeling – Built a star schema with Fact and Dimension tables for efficient analytics.
+
 3️⃣ DAX Calculations – Created key performance measures such as Total Revenue, Profit, Orders, and Monthly Growth by Orders, Revenue, Profits.
+
 4️⃣ Visualization Design – Designed a clean, and business-friendly dashboard layout with consistent colors and KPIs according to ApexBike Ride Shop Company.
 
 
@@ -47,7 +51,7 @@ Trend visuals showing revenue, Orders by Category, Top 10 Products by orders alo
 
 🔹 Location Insights
 
-Total Orders generated in country, continent level
+Total Orders generated at continent, country level
 
 🔹 Product Insights
 
@@ -101,9 +105,13 @@ These enable stakeholders to slice and dice the data for deeper insight and deci
 ## 💡 Key Takeaways
 
 📈 Total Revenue: $24.9M
+
 💰 Total Profit: $10.5M
+
 🏆 Most Ordered Products: Tires and Tubes
+
 🌍 Best Region: United States
+
 🔁 Return Rate: 2.2%
 
 This project deepened my understanding of Power BI data modeling, DAX optimization, and interactive design for executive-level dashboards.
@@ -127,20 +135,28 @@ Customer-level insights show 17K+ unique buyers, with the average revenue per cu
 The overall return rate stands at 2.2%, well within acceptable limits, with most returns coming from accessories. Drillthrough analysis helps identify products and regions with slightly higher return trends, guiding better inventory and customer support strategies.
 
 
-🗂️ Resources
 
-📁 Dataset: ApexRide Sales Data.xlsx
+📁 Dataset: - <a href="https://github.com/Rajkumarvalasa/ApexRide-Bike-Shop-Sales-Dashbaord/tree/main/ApexRide%20Bike%20Shop%20Raw%20Data">ApexRide Bike Shop raw data</a>
 
-📸 Preview Screenshot:
+🖼️ Logo and Icons: - <a href="https://github.com/Rajkumarvalasa/ApexRide-Bike-Shop-Sales-Dashbaord/tree/main/ApexRide%20Bike%20Shop%20logo">ApexRide Bike Shop Logo</a>
 
-📊 Dashboard:
+🛢️ Data Model:
 
-🎥 Dashboard Demo Video:
+![Datamodel](https://github.com/user-attachments/assets/73eec4dc-8495-4d69-bb7e-53504af17ab4)
+
+📸 Preview Screenshot: 
+
+![Dashboard](https://github.com/user-attachments/assets/75229053-01bc-40fd-9b2c-0aac3567c8ef)
+
+📊 Dashboard: - <a href="https://github.com/Rajkumarvalasa/ApexRide-Bike-Shop-Sales-Dashbaord/blob/main/ApexRideBikeShop_dashboard.pbix">Dashboard</a>
+
+🎥 Dashboard Demo Video: - <a href="https://github.com/Rajkumarvalasa/ApexRide-Bike-Shop-Sales-Dashbaord/blob/main/ApexRideBikeShop_Dashboard_Clip.mp4">Dashboard Clip</a>
 
 💬 Feedback
 
 I’d love to hear your thoughts on the visuals, KPIs, and overall storytelling approach.
-Let’s connect if you’re also passionate about data analytics, Power BI, or dashboard storytelling 🚀
+
+Let’s connect if you’re also passionate about data analytics, Power BI, or dashboard storytelling
 
 🔗 LinkedIn: - <a href="https://www.linkedin.com/in/rajkumar-valasa-2048921ba">linkedin.com/in/rajkumar-valasa</a>
 
