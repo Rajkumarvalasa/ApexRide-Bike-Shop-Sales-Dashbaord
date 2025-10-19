@@ -140,6 +140,10 @@ The overall return rate stands at 2.2%, well within acceptable limits, with most
 
 🖼️ Logo and Icons: - <a href="https://github.com/Rajkumarvalasa/ApexRide-Bike-Shop-Sales-Dashbaord/tree/main/ApexRide%20Bike%20Shop%20logo">ApexRide Bike Shop Logo</a>
 
+🛢️ Data Model:
+
+![Datamodel](https://github.com/user-attachments/assets/73eec4dc-8495-4d69-bb7e-53504af17ab4)
+
 📸 Preview Screenshot: 
 
 ![Dashboard](https://github.com/user-attachments/assets/75229053-01bc-40fd-9b2c-0aac3567c8ef)
